@@ -3,3 +3,4 @@ tools_gen_stages.py
 *.apk
 *.jks
 keystore-pass.txt
+sns/
